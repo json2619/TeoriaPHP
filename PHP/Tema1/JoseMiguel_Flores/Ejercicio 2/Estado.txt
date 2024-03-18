@@ -1,0 +1,4 @@
+Soltero 1
+Casado 2
+Separado 3
+Viudo 4

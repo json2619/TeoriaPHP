@@ -1,0 +1,3 @@
+S2DAW Servidor 2 1
+P2DAM Procesos 2 2
+M1Big Modelos 1 5

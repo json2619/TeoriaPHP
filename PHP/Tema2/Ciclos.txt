@@ -1,0 +1,12 @@
+1 DAW
+2 DAM
+3 ASIR
+4 MIF
+5 BigData
+6 Videojuegos
+
+INSERT INTO mi_tabla (columna1, columna2, columna3) 
+VALUES 
+    (valor1_fila1, valor2_fila1, valor3_fila1), 
+    (valor1_fila2, valor2_fila2, valor3_fila2), 
+    (valor1_fila3, valor2_fila3, valor3_fila3);

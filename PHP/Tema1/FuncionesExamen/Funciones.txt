@@ -1,0 +1,5 @@
+Funciones que se puedan necesitar:
+
+round() redondea sumando 0.5, si no llega reondea hacia abajo
+floo() redonde hacia abajo
+ceil() redondea hacia arriba
